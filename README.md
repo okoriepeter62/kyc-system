@@ -1,0 +1,1 @@
+A web application that allows users to submit identity documents for verification. The system includes secure file upload, document storage, and admin review functionality built using PHP, MySQL, HTML, CSS, and JavaScript.
